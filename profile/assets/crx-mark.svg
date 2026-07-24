@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -44 80 88" role="img" aria-label="CRX">
+  <defs>
+    <linearGradient id="crxfav" gradientUnits="userSpaceOnUse" x1="-5" y1="-40" x2="5" y2="40">
+      <stop offset="0" stop-color="#00d4aa"/>
+      <stop offset="1" stop-color="#00b4d8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#crxfav)" d="M6.5,-33.5L6.5,33.5C6.5,37.08995 3.58995,40 0,40C-3.58995,40 -6.5,37.08995 -6.5,33.5L-6.5,-33.5C-6.5,-37.08995 -3.58995,-40 0,-40C3.58995,-40 6.5,-37.08995 6.5,-33.5Z"/><path fill="url(#crxfav)" transform="rotate(60)" d="M6.5,-33.5L6.5,33.5C6.5,37.08995 3.58995,40 0,40C-3.58995,40 -6.5,37.08995 -6.5,33.5L-6.5,-33.5C-6.5,-37.08995 -3.58995,-40 0,-40C3.58995,-40 6.5,-37.08995 6.5,-33.5Z"/><path fill="url(#crxfav)" transform="rotate(-60)" d="M6.5,-33.5L6.5,33.5C6.5,37.08995 3.58995,40 0,40C-3.58995,40 -6.5,37.08995 -6.5,33.5L-6.5,-33.5C-6.5,-37.08995 -3.58995,-40 0,-40C3.58995,-40 6.5,-37.08995 6.5,-33.5Z"/>
+</svg>
