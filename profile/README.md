@@ -23,4 +23,4 @@
 
 ---
 
-[crxfx.com](https://crxfx.com) · quickstart: [crxnetwork/crx-quickstart](https://github.com/crxnetwork/crx-quickstart) · API handbook (partner access): [portal.crxfx.com/docs](https://portal.crxfx.com/docs)
+[crxfx.com](https://crxfx.com) · API handbook (partner access): [portal.crxfx.com/docs](https://portal.crxfx.com/docs)
